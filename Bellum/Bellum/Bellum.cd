@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BBishop">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAIAIAAAACAAAAAAA=</HashCode>
+      <FileName>BBishop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBoard">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAChAAAAAACAAAAIAAAAAAAAAAAAAAAABAgAAAgA=</HashCode>
+      <FileName>BBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BChess">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAACAAAAAAAAAgAAgIBAAAAAAAAEAAAAA=</HashCode>
+      <FileName>BChess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BGuard">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAQAAAAAAAAIAAAAAAAAAABAAA=</HashCode>
+      <FileName>BGuard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BKing">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BKing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BKnight">
+    <Position X="6.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAQAAAAAAIAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BKnight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPawn">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAIIAAAAQAAAAAAAA=</HashCode>
+      <FileName>BPawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPiece">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAQAAAAAAAAIAEAYAAAAAIAAAA=</HashCode>
+      <FileName>BPiece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BQueen">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAQAAAAAAAAIgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BQueen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRook">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAABAAIAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BRook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSuperPawn">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <InheritanceLine Type="BPiece" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="4.767" />
+        <Point X="8" Y="5.625" />
+        <Point X="14.25" Y="5.625" />
+        <Point X="14.25" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAQAAAAAAAAIAAAAAAAIAAAAAA=</HashCode>
+      <FileName>BSuperPawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
